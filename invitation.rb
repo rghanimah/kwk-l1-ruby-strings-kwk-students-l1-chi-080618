@@ -1,7 +1,7 @@
 puts "What is your name?"
 guest_name = gets.chomp
 # Try starting out with puts'ing a string.
-greeting = "guest_name"
+puts "#{guest_name}"
 puts "what is the date of your party?"
 date = gets.chomp
 puts "what is the time your party is at?"
