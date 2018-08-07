@@ -3,5 +3,5 @@ guest_name = gets.chomp
 # Try starting out with puts'ing a string.
 greeting = "guest_name"
 puts "dear #{greeting}"
-party_name = gets.chomp
 puts "what is the name of your party?"
+party_name = gets.chomp
