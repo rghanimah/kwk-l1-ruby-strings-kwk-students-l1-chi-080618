@@ -13,4 +13,4 @@ puts "you are cordially invited to the #{party_name} on #{date} at #{time}. Plea
 
 Sincerely,
 
-#{host}
+#{host}"
