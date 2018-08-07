@@ -4,3 +4,4 @@ guest_name = gets.chomp
 greeting = "guest_name"
 puts "dear #{greeting}"
 party_name = gets.chomp
+puts "what is the name of your party?"
